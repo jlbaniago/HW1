@@ -1,0 +1,14 @@
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\bin\Debug\net8.0\Baniago_HW#1.exe
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\bin\Debug\net8.0\Baniago_HW#1.deps.json
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\bin\Debug\net8.0\Baniago_HW#1.runtimeconfig.json
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\bin\Debug\net8.0\Baniago_HW#1.dll
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\bin\Debug\net8.0\Baniago_HW#1.pdb
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\obj\Debug\net8.0\Baniago_HW#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\obj\Debug\net8.0\Baniago_HW#1.AssemblyInfoInputs.cache
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\obj\Debug\net8.0\Baniago_HW#1.AssemblyInfo.cs
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\obj\Debug\net8.0\Baniago_HW#1.csproj.CoreCompileInputs.cache
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\obj\Debug\net8.0\Baniago_HW#1.dll
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\obj\Debug\net8.0\refint\Baniago_HW#1.dll
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\obj\Debug\net8.0\Baniago_HW#1.pdb
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\obj\Debug\net8.0\Baniago_HW#1.genruntimeconfig.cache
+C:\Users\janleo\source\repos\Baniago_HW#1\Baniago_HW#1\obj\Debug\net8.0\ref\Baniago_HW#1.dll
