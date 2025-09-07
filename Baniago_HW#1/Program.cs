@@ -7,10 +7,9 @@
             List<string> originalStrings = new List<string>();
             List<string> reversedStrings = new List<string>();
             List<string> isPalindromeList = new List<string>();
-
             while (true)
             {
-                Console.Write("\nEnter string: ");
+                Console.Write("Enter string: ");
                 string input = Console.ReadLine();
 
                 if (input == "*")
@@ -18,7 +17,6 @@
 
                 string lowerInput = input.ToLower();
                 string reversed = ReverseString(lowerInput);
-
                 string result = (lowerInput == reversed) ? "Yes" : "No";
 
                 originalStrings.Add(input);
@@ -36,7 +34,6 @@
 
             Console.WriteLine("\n//End execution");
         }
-
         // Method to reverse string manually (no built-in reverse methods)
         static string ReverseString(string input)
         {
