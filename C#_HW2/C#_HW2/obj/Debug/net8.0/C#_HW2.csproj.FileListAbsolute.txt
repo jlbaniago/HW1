@@ -1,0 +1,14 @@
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\bin\Debug\net8.0\C#_HW2.exe
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\bin\Debug\net8.0\C#_HW2.deps.json
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\bin\Debug\net8.0\C#_HW2.runtimeconfig.json
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\bin\Debug\net8.0\C#_HW2.dll
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\bin\Debug\net8.0\C#_HW2.pdb
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\obj\Debug\net8.0\C#_HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\obj\Debug\net8.0\C#_HW2.AssemblyInfoInputs.cache
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\obj\Debug\net8.0\C#_HW2.AssemblyInfo.cs
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\obj\Debug\net8.0\C#_HW2.csproj.CoreCompileInputs.cache
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\obj\Debug\net8.0\C#_HW2.dll
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\obj\Debug\net8.0\refint\C#_HW2.dll
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\obj\Debug\net8.0\C#_HW2.pdb
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\obj\Debug\net8.0\C#_HW2.genruntimeconfig.cache
+C:\Users\janleo\source\repos\C#_HW2\C#_HW2\obj\Debug\net8.0\ref\C#_HW2.dll
