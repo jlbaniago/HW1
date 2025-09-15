@@ -1,4 +1,4 @@
-﻿namespace Baniago_HW_1
+﻿namespace HW1
 {
     internal class Program
     {
@@ -14,7 +14,6 @@
 
                 if (input == "*")
                     break;
-
                 string lowerInput = input.ToLower();
                 string reversed = ReverseString(lowerInput);
                 string result = (lowerInput == reversed) ? "Yes" : "No";
@@ -34,7 +33,7 @@
 
             Console.WriteLine("\n//End execution");
         }
-        // Method to reverse string manually (no built-in reverse methods)
+        // reverse string
         static string ReverseString(string input)
         {
             char[] reversed = new char[input.Length];
@@ -42,7 +41,6 @@
             {
                 reversed[i] = input[input.Length - 1 - i];
             }
-
             return new string(reversed);
         }
     }
